@@ -1,0 +1,8 @@
+{
+  "name": "UGC NET Paper 1 PYQ Classifier",
+  "description": "Topic-wise and subtopic-wise classification for UGC NET 2026 Paper 1 Previous Year Questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
